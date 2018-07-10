@@ -1,0 +1,24 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   HelloWorld/.idea/misc.xml
+#	new file:   HelloWorld/.idea/modules.xml
+#	new file:   HelloWorld/.idea/uiDesigner.xml
+#	new file:   HelloWorld/.idea/workspace.xml
+#	new file:   HelloWorld/HelloWorld.iml
+#	new file:   HelloWorld/out/production/HelloWorld/HellBoolean.class
+#	new file:   HelloWorld/out/production/HelloWorld/Test.class
+#	new file:   HelloWorld/src/HellBoolean.java
+#	new file:   HelloWorld/src/Test.java
+#	new file:   sandbox/.gitattributes
+#	new file:   sandbox/.gitignore
+#	new file:   sandbox/build.gradle
+#	new file:   sandbox/sandbox
+#	new file:   sandbox/src/main/java/MyFirstProg.java
+#
+
