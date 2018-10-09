@@ -6,11 +6,19 @@ public class MyFirstPrograms {
     hello("bro");
     hello("Anton");
 
-    double l = 5;
-    double a = 4;
-    double b = 6;
-    System.out.println(area(l));
-    System.out.println(area(a,b));
+    Square s = new Square(5);
+    System.out.println(s.area());
+
+    Rectangle r = new Rectangle(12,15);
+
+    System.out.println(r.area());
+
+    Point a = new Point(4,4);
+    Point b = new Point(0,0);
+
+    System.out.println(a.distance(b));
+    System.out.println(Math.sqrt(8));
+
   }
 
   public static void hello(String somebody) {
@@ -18,13 +26,11 @@ public class MyFirstPrograms {
   }
 
 
-  public static double area(double len){
-    return len*len;
-  }
 
-  public static double area(double a, double b){
-    return a * b;
-  }
+
+
+
+
 
 
 
